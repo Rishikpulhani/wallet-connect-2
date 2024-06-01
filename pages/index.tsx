@@ -18,7 +18,7 @@ const Home: NextPage = () => {
       <main className={styles.main}>
         <ConnectButton />
 
-        <h1 className={styles.title}>
+        {/*<h1 className={styles.title}>
           Welcome to <a href="">RainbowKit</a> + <a href="">wagmi</a> +{' '}
           <a href="https://nextjs.org">Next.js!</a>
         </h1>
@@ -69,7 +69,7 @@ const Home: NextPage = () => {
               Instantly deploy your Next.js site to a public URL with Vercel.
             </p>
           </a>
-        </div>
+  </div>*/}
       </main>
 
       <footer className={styles.footer}>
